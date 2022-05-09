@@ -351,6 +351,25 @@
   "employeePass": "string"
 }
 ```
+#### PUT UpdatePassword
+
+```http
+  PUT /api/Employee/UpdatePassword
+```
+
+| Parametre | Tip     | Açıklama                |
+| :-------- | :------- | :------------------------- |
+| `employeeMail` | `int` | **Gerekli**  Employee mail |
+| `employeeOldPassword` | `string` | **Gerekli**  Employee eski parola |
+| `employeeNewPassword` | `string` | **Gerekli**  Employee yeni parola |
+
+```json
+{
+  "employeeMail": "string",
+  "employeeOldPassword": "string",
+  "employeeNewPassword": "string"
+}
+```
 ### Message
 
 #### GET GetAll
