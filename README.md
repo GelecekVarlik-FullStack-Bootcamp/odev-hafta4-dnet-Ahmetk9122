@@ -35,25 +35,24 @@
   
 ## API Özellikleri
 
-**Employee Login:**
-- Database tarafında kaydedilmiş olan kullanıcının mail ve password onayından sonra token üreterek sisteme girişinin sağlanması.<br>
-**Manager Login:**
-- Database tarafında kaydedilmiş olan kullanıcının mail ve password onayından sonra token üreterek sisteme girişinin sağlanması.<br>
-**Department:**
+#### Employee Login:
+- Database tarafında kaydedilmiş olan kullanıcının mail ve password onayından sonra token üreterek sisteme girişinin sağlanması.
+#### Manager Login:
+- Database tarafında kaydedilmiş olan kullanıcının mail ve password onayından sonra token üreterek sisteme girişinin sağlanması.
 - CRUD işlemleri (Create, Read, Update, Delete )<br>
 - ID ye göre Department özelliklerinin getirilmesi<br>
-**Employee:**
+#### Employee:
 - CRUD işlemleri (Create, Read, Update, Delete )
 - ID ye göre Employee özelliklerinin getirilmesi
-**Manager:**
+#### Manager:
 - CRUD işlemleri (Create, Read, Update, Delete )
 - ID ye göre Manager özelliklerinin getirilmesi
 - Yönetici tarafından personel eklenmesi işlemi
-**Message:**
+#### Message:
 - CRUD işlemleri (Create, Read, Update, Delete )
 - ID ye göre Message özelliklerinin getirilmesi
 - İş yazışmalarının listelenmesi
-**Work:**
+#### Work:
 - CRUD işlemleri (Create, Read, Update, Delete )
 - ID ye göre Work özelliklerinin getirilmesi
 - Sadece ilgili departmana ait işlerin getirilmesi
