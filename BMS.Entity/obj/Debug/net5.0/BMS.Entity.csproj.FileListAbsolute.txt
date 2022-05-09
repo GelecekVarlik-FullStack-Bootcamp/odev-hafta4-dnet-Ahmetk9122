@@ -1,0 +1,15 @@
+C:\Users\ahmet\source\repos\BMSProject\BMS.Entity\bin\Debug\net5.0\BMS.Entity.deps.json
+C:\Users\ahmet\source\repos\BMSProject\BMS.Entity\bin\Debug\net5.0\BMS.Entity.dll
+C:\Users\ahmet\source\repos\BMSProject\BMS.Entity\bin\Debug\net5.0\BMS.Entity.pdb
+C:\Users\ahmet\source\repos\BMSProject\BMS.Entity\obj\Debug\net5.0\BMS.Entity.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\BMSProject\BMS.Entity\obj\Debug\net5.0\BMS.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\source\repos\BMSProject\BMS.Entity\obj\Debug\net5.0\BMS.Entity.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\BMSProject\BMS.Entity\obj\Debug\net5.0\BMS.Entity.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\BMSProject\BMS.Entity\obj\Debug\net5.0\BMS.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\BMSProject\BMS.Entity\obj\Debug\net5.0\BMS.Entity.dll
+C:\Users\ahmet\source\repos\BMSProject\BMS.Entity\obj\Debug\net5.0\refint\BMS.Entity.dll
+C:\Users\ahmet\source\repos\BMSProject\BMS.Entity\obj\Debug\net5.0\BMS.Entity.pdb
+C:\Users\ahmet\source\repos\BMSProject\BMS.Entity\obj\Debug\net5.0\ref\BMS.Entity.dll
+C:\Users\ahmet\source\repos\BMSProject\BMS.Entity\bin\Debug\net5.0\BMS.Entity.runtimeconfig.json
+C:\Users\ahmet\source\repos\BMSProject\BMS.Entity\bin\Debug\net5.0\BMS.Entity.runtimeconfig.dev.json
+C:\Users\ahmet\source\repos\BMSProject\BMS.Entity\obj\Debug\net5.0\BMS.Entity.genruntimeconfig.cache
