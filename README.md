@@ -44,10 +44,12 @@
 #### Employee:
 - CRUD işlemleri (Create, Read, Update, Delete )
 - ID ye göre Employee özelliklerinin getirilmesi
+- Maile gelen şifrenin personel tarafından güncellenerek veritabanına md5 formatıyla hashlenerek tutulması.
 #### Manager:
 - CRUD işlemleri (Create, Read, Update, Delete )
 - ID ye göre Manager özelliklerinin getirilmesi
 - Yönetici tarafından personel eklenmesi işlemi
+- Eklenen personelin mail adresine şifresinin iletilmesi
 #### Message:
 - CRUD işlemleri (Create, Read, Update, Delete )
 - ID ye göre Message özelliklerinin getirilmesi
